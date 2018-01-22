@@ -1,0 +1,9 @@
+[submodule "react-github-card-course"]
+	path = react-github-card-course
+	url = https://github.com/ssavajols/react-github-card-course.git
+[submodule "react-routing-course"]
+	path = react-routing-course
+	url = https://github.com/ssavajols/react-routing-course.git
+[submodule "react-play-nine-course"]
+	path = react-play-nine-course
+	url = https://github.com/ssavajols/react-play-nine-course.git
